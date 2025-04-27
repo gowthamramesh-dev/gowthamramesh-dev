@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on college website.<br>👯 I’m looking to collaborate on Blockchain and also web development.<br>🤝 I’m looking for help with blockchain related things.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about frontend related.
+🔭 I’m currently working on college final year Project.<br>👯 I’m looking to collaborate on Blockchain and also web development.<br>🤝 I’m looking for help with blockchain related things.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about frontend related.
 
 
 ## 🌐 Socials:
